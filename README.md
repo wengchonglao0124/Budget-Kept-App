@@ -124,4 +124,14 @@ The architecture of Budget Kept is structured as follows:
 
 ![IMG_5227](https://github.com/wengchonglao0124/Budget-Kept-App/assets/85862169/b37367f2-8a00-4b49-9974-d4d1ebee11a8)
 
+![IMG_5229](https://github.com/wengchonglao0124/Budget-Kept-App/assets/85862169/b2a3fbb1-abc2-4cf0-8c57-9d413acf59ea)
+
 ![IMG_5228](https://github.com/wengchonglao0124/Budget-Kept-App/assets/85862169/be4d0d41-e792-43a4-b568-aa9d41a57973)
+
+![IMG_5210](https://github.com/wengchonglao0124/Budget-Kept-App/assets/85862169/7426723f-b017-45ac-8aa7-03c5cd89cee9)
+
+![IMG_5211](https://github.com/wengchonglao0124/Budget-Kept-App/assets/85862169/408aeb78-726d-4759-af08-1c3c424a7db3)
+
+![IMG_5213](https://github.com/wengchonglao0124/Budget-Kept-App/assets/85862169/3e794b9c-56c1-4d4b-a38b-fb8ae0d4769e)
+
+![IMG_5212](https://github.com/wengchonglao0124/Budget-Kept-App/assets/85862169/48ddb3ee-c54c-4f6a-bd03-40af9c163cdf)
