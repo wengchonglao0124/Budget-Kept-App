@@ -3,6 +3,8 @@
 
 Budget Kept is a mobile application designed to help users track their spending, manage their budget, and achieve their financial goals. The app provides an intuitive interface for recording transactions, and viewing transaction history.
 
+![IMG_5219](https://github.com/wengchonglao0124/Budget-Kept-App/assets/85862169/3ef7d489-47b8-4a75-82fd-5f5d5511f989)
+
 ## Purpose of the Application
 
 The purpose of Budget Kept is to provide users with a simple and effective tool for managing their personal finances. The app allows users to:
