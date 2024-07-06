@@ -107,3 +107,13 @@ The architecture of Budget Kept is structured as follows:
 4. **Services**: Functions for interacting with APIs and handling data.
 5. **Styles**: Style sheets for consistent styling across the application.
 6. **Navigation**: Configuration for screen navigation using React Navigation.
+
+## Demonstration
+
+![IMG_5220](https://github.com/wengchonglao0124/Budget-Kept-App/assets/85862169/e443fbe5-50a4-497a-a2be-ff9a7318823c)
+
+![IMG_5217](https://github.com/wengchonglao0124/Budget-Kept-App/assets/85862169/0a2f5c15-522f-4bcc-9747-aa0e6c27995f)
+
+![IMG_5218](https://github.com/wengchonglao0124/Budget-Kept-App/assets/85862169/ed75e5b0-c620-4cba-ae83-0763c9547d7b)
+
+![IMG_5224](https://github.com/wengchonglao0124/Budget-Kept-App/assets/85862169/8c18cc25-7578-4f4b-b67b-36621ba5033f)
